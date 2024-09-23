@@ -1,0 +1,14 @@
+{
+  "name": "381492120247.us-west-2.iam",
+  "authorizationMode": "PROJECT",
+  "description": "This is an IAM connection created by account 381492120247 in us-west-2.",
+  "domainIdentifier": "dzd_csnnvlbt28z607",
+  "environmentIdentifier": "arvrxa48d21mw7",
+  "location": {
+    "awsRegion": "us-west-2",
+    "awsAccountId": "381492120247"
+  },
+  "projectIdentifier": "cdayxtq4ly1go7",
+  "provisioningType": "MANAGED",
+  "type": "IAM"
+}
