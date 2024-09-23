@@ -1,0 +1,15 @@
+{
+  "name": "381492120247.us-west-2.athena",
+  "authorizationMode": "PROJECT",
+  "description": "This is an ATHENA connection created by account 381492120247 in us-west-2.",
+  "domainIdentifier": "dzd_csnnvlbt28z607",
+  "environmentIdentifier": "64is7c6jpw0zvr",
+  "location": {
+    "awsRegion": "us-west-2",
+    "awsAccountId": "381492120247"
+  },
+  "projectIdentifier": "cdayxtq4ly1go7",
+  "provisioningType": "MANAGED",
+  "type": "ATHENA",
+  "athenaWorkgroup": "maxdome-workgroup-64is7c6jpw0zvr"
+}
