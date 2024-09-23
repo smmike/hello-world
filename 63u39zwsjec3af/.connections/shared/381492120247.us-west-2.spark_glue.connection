@@ -1,0 +1,26 @@
+{
+  "name": "381492120247.us-west-2.spark_glue",
+  "authorizationMode": "PROJECT",
+  "description": "This is a SPARK_GLUE connection created by account 381492120247 in us-west-2.",
+  "domainIdentifier": "dzd_csnnvlbt28z607",
+  "environmentIdentifier": "4sj1n7kiaq2mcn",
+  "location": {
+    "awsRegion": "us-west-2",
+    "awsAccountId": "381492120247"
+  },
+  "projectIdentifier": "63u39zwsjec3af",
+  "provisioningType": "MANAGED",
+  "sparkGlueProperties": {
+    "glueConnection": {
+      "name": "maxdome-glue-network-connection-63u39zwsjec3af-dev"
+    },
+    "sessionConfigs": {
+      "glue_version": "4.0",
+      "idle_timeout": 60,
+      "number_of_workers": 10,
+      "worker_type": "G.1X"
+    }
+  },
+  "type": "SPARK_GLUE",
+  "useExistingAwsResource": true
+}
